@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350780682777",
+    "firebase_url": "https://fir-database-ba5a6.firebaseio.com",
+    "project_id": "fir-database-ba5a6",
+    "storage_bucket": "fir-database-ba5a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350780682777:android:367dfd9d6083fc58",
+        "android_client_info": {
+          "package_name": "br.ufc.quixada.dadm.variastelas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350780682777-ica3r1s9aqoc7jttftiiaouv2lo0fri7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.ufc.quixada.dadm.variastelas",
+            "certificate_hash": "a8f992984ec076430c87a653384faa0ec5fef8b8"
+          }
+        },
+        {
+          "client_id": "350780682777-m8r0l8e4so9hfgr5kv6ghqrai3qaaj9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP9T7YBO1zlkc7sbT-9AQhO2dz75pbGTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350780682777-m8r0l8e4so9hfgr5kv6ghqrai3qaaj9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
